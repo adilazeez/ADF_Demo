@@ -1,0 +1,10 @@
+{
+	"name": "ls_adfdemoAzureDataLakeStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adfdemoadil.dfs.core.windows.net/"
+		}
+	}
+}
