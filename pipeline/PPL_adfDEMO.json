@@ -47,7 +47,11 @@
 				"outputs": [
 					{
 						"referenceName": "DS_ADFDEMO_PARQUET",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"container": "container",
+							"folder": "test"
+						}
 					}
 				]
 			}
