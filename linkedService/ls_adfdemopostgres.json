@@ -4,10 +4,10 @@
 		"annotations": [],
 		"type": "PostgreSqlV2",
 		"typeProperties": {
-			"server": "ep-green-glitter-aok32d30-pooler.c-2.ap-southeast-1.aws.neon.tech",
+			"server": "ep-wild-band-b5i9u5zq-pooler.c-7.us-east-2.aws.neon.tech",
 			"port": 5432,
-			"database": "adilneondbdemo",
-			"username": "adilneondbdemo_owner",
+			"database": "neondb",
+			"username": "neondb_owner",
 			"password": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
