@@ -5,6 +5,14 @@
 			"referenceName": "ls_adfdemopostgres",
 			"type": "LinkedServiceReference"
 		},
+		"parameters": {
+			"container": {
+				"type": "string"
+			},
+			"test": {
+				"type": "string"
+			}
+		},
 		"annotations": [],
 		"type": "PostgreSqlV2Table",
 		"schema": [],
